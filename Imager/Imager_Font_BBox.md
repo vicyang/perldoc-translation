@@ -61,7 +61,7 @@ my ($neg_width,
 
   display_width()  
     字符串有效像素的横向距离  
-    # 等于 advance_width - left_bearing - right_bearing  
+    等于 advance_width - left_bearing - right_bearing
   
   global_descent()  
     字符基线（baseline）到 全局字体边框底部的距离。（译注：基线以下的部分）  
